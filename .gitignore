@@ -130,3 +130,5 @@ dmypy.json
 
 
 .DS_Store
+totto_data/
+webnlg_data/
