@@ -132,3 +132,6 @@ dmypy.json
 .DS_Store
 totto_data/
 webnlg_data/
+GenerationEval-master/
+code/runs/
+models/
